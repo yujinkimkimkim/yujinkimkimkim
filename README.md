@@ -3,6 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&color=e6f4fa&height=300&section=header&text=yujinkim's%20github&fontSize=90&fontColor=9ecde2" />
 </div>
 
+## 안녕하세요 개발자가 되고싶은 김유진입니다☺️
 <h3 align="center">✨ Skills ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />&nbsp
